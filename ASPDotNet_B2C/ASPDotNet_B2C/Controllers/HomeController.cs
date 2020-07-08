@@ -12,6 +12,8 @@ namespace ASPDotNet_B2C.Controllers
     {
         public IActionResult Index()
         {
+            var userIdentity = User;
+            var isAuth = userIdentity.Identity.IsAuthenticated;
             return View();
         }
 
