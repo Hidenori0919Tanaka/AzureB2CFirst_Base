@@ -1,0 +1,2 @@
+https://docs.microsoft.com/ja-jp/azure/active-directory-b2c/tutorial-customize-ui
+https://docs.microsoft.com/ja-jp/azure/active-directory-b2c/customize-ui-overview
